@@ -1,0 +1,8 @@
+.form,
+.greetings {
+  display: none;
+}
+.showing {
+  display: block;
+}
+/*일단 클래스 만들어두고 쟈스에서 실행시킬 거 같음*/
